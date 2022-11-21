@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/aluno", (req, res )=> {
     let usuario = {
-                    nome: "Claudio Nunes",
+                    nome: "Davi Silas",
                     disciplina : "Topicos Especiais",
                     curso : "ADS"
     }
